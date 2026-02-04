@@ -2,7 +2,7 @@
 > Personal Excel data analytics project demonstrating dashboard design, advanced formulas, and business insight generation.
 
 
-![1_Salary_Dashboard.png](Images/1_Salary_Dashboard_Final_Dashboard.gif)
+![1_Salary_Dashboard.png](1_Salary_Dashboard_Final_Dashboard.gif)
 
 ## Introduction
 
